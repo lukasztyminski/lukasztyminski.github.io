@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"name": "Women`s T-shirt",
+		"price": 42,
+		"rating_count": 4.5,
+		"status_sale": false  
+	},
+	{
+		"id": 2,
+		"name": "Men`s Hoodie",
+		"price": 39,
+		"rating_count": 4.5,
+		"status_sale": false  
+	},
+	{
+		"id": 3,
+		"name": "Women`s Clothes",
+		"price": 40,
+		"rating_count": 4.5,
+		"status_sale": false  
+	},
+	{
+		"id": 4,
+		"name": "Children`s T-shirt",
+		"price": 32,
+		"rating_count": 4.5,
+		"status_sale": false  
+	},
+	{
+		"id": 5,
+		"name": "Men`s Shoes",
+		"price": 38,
+		"rating_count": 4.5,
+		"status_sale": false  
+	}
+]
