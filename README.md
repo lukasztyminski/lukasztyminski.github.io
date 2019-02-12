@@ -3,20 +3,16 @@
 # lukasztyminski.github.io
 > This is my simple GitHub page for porfolio.
 
-## Mark Down Styling
+## Mark Down styling
 
 Let's go!
 
 ```
-$ cls
+$ Render your own element
 ```
 
 **[DEMO](https://lukasztyminski.github.io/)**
 
-```
-$ npm run deploy
-```
-
 ## License
 
-MIT © [lukasztyminski](https://github.com/lukasztyminski)
+BY © [lukasztyminski](https://github.com/lukasztyminski)
